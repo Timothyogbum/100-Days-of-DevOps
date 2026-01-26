@@ -1,5 +1,4 @@
-📚 Git Governance: Controlled Integration & Peer Review
-Project: Nautilus Story-Blog Migration (Day 31)
+Project: Nautilus Story-Blog Migration (Day 29)
 1. Objective
 The primary goal was to implement a Branch Protection workflow. By preventing direct pushes to the master branch, the team ensured that all new content (Max's "Fox and Grapes" story) was reviewed, audited, and approved by a secondary stakeholder (Tom) before reaching the production-ready codebase.
 
